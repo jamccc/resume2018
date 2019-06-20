@@ -1,6 +1,6 @@
 # PC端简历网站
 
-该项目是一个PC端简历网站。[预览链接](https://jamamm.github.io/resume2018/resume2018.html "预览链接")
+该项目是一个PC端简历网站。[预览链接](https://jamccc.github.io/resume2018/resume2018.html)
 
 ## 功能介绍：
 
