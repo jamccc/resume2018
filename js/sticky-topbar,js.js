@@ -9,7 +9,6 @@
             this.bindEvents()
         },
         bindEvents: function () {
-            var view = this.view
             window.addEventListener('scroll', (x) => {
                 if (window.scrollY > 0) {
                     this.active()
